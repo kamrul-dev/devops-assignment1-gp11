@@ -12,3 +12,14 @@
 * Inside that directory I created a ReadMe.md file with some text.
 * Then I merged main branch with my created branch.
 * After documentation in the main branch ReadMe.md file.
+
+## ABU SAYED (Team Member) (ICDCP_28)
+<p>In my role as a member of Group 11 in the Git Repository Assignment, I successfully completed several tasks, contributing to the project's progress.</p>
+
+### Here's a Overview of my Contributions:
+
+* Branch Creation
+* Directory and README.md Creation in That Branch
+* Update that README.md File
+* As part of our collaborative effort, I made substantial contributions to the main README.md file in the main repository.
+* I also created issues in the main repository. This practice familiarized us with issue tracking, which is crucial for project management and problem-solving.
