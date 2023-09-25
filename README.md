@@ -39,7 +39,7 @@
 * Add documentation in the main branch ReadMe.md file.
 
 
-## Md. Rezuan Hussen (Team Meamber) (ICDCP_62)
+## Md. Rezuan Hussen (Team Member) (ICDCP_62)
 
 
 ### Task Completion Overview:
